@@ -4,6 +4,8 @@
 
 This project implements an Arduino-based system to measure wind speed and direction, display the collected data on a 16x2 LCD, and transmit it to a remote server using the MQTT protocol over an Ethernet connection. The system also features a 4x4 keypad that allows users to switch between different display modes on the LCD.
 
+![Image](https://github.com/user-attachments/assets/21f89b82-bfc9-45cb-aa7b-40f12aa6a8e4)
+
 ## Features
 
 * **Wind Speed Measurement:** Measures wind speed using an analog sensor and calculates it based on the frequency of voltage transitions.
